@@ -4,7 +4,7 @@
 
 Group Members:
 * Diya Shah (diyashah@udel.edu)
-* Katie Oates (email)
+* Katie Oates  (email)
 * Ana  (email)
 * Rana  (email)
 
